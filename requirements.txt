@@ -85,8 +85,8 @@ mdit-py-plugins==0.4.0
 mdurl==0.1.2
 mediapipe==0.10.7
 mkl-fft
-mkl-random==1.2.4
-mkl-service==2.4.2
+mkl-random
+mkl-service
 mmcv-full==1.7.0
 mmdet==2.26.0
 mmengine==0.9.1
@@ -99,7 +99,7 @@ mypy-extensions==1.0.0
 nbformat==5.9.2
 networkx==3.1
 ninja==1.11.1.1
-numpy==1.24.3
+numpy
 nvidia-ml-py==12.535.133
 onnx==1.15.0
 onnxruntime==1.16.1
