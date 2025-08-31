@@ -85,7 +85,7 @@ mdit-py-plugins==0.4.0
 mdurl==0.1.2
 mediapipe==0.10.7
 mkl-fft
-mkl-random==1.2.2
+mkl-random==1.2.4
 mkl-service==2.4.0
 mmcv-full==1.7.0
 mmdet==2.26.0
